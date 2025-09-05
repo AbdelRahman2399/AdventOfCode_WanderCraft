@@ -45,7 +45,7 @@ def main():
     #print(arri)
     unique, counts = np.unique(arri, return_counts=True)
     res = dict(zip(unique,counts))
-    print(res['safe'])
+    print("Number of safe reports: ",res['safe'])
     
         
             

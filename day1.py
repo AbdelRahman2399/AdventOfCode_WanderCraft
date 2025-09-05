@@ -34,7 +34,7 @@ def main():
     
     dist = calculatedist(arr1,arr2)
         
-    print(dist)
+    print("Total distance is: ",dist)
     
     
 

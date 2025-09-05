@@ -37,7 +37,7 @@ def main():
     for f in fun_list:
         sum = sum + eval(f)
         #print(sum)
-    print(sum)
+    print("Sum of multiplication functions is: ",sum)
     
     
     

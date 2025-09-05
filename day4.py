@@ -105,7 +105,7 @@ def main():
     countd2 = count_diag2(data_split1[:])
     print(countd2)
     count_total = counth + countv + countd1 + countd2
-    print(count_total)
+    print("Total occurences of XMAS: ", count_total)
     
     
     
